@@ -9,3 +9,6 @@ Throughout the project, I followed a structured approach by breaking down tasks 
 This project provided me with valuable experience in working with parsers, lexical analysis, and graphical rendering in Java. One of the biggest takeaways was understanding how structured input is broken down and processed using a lexer and parser. Before working on this project, I had little to none understanding of how lexers and parsers functioned, after using the class materials and taking my learning from my time spent in Codecademy and YouTube University I am starting to feel more comfortable.
 # Potential Improvements
 Right now, the program relies on a scene file for input. It would be a great enhancement to add a GUI where users can manually create and modify scenes in real time.
+
+# Initial Test
+![Intial test](https://github.com/user-attachments/assets/f8b0f082-0bb0-4f8f-a2f1-71b8bf5ac388)
