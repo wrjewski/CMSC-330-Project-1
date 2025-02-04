@@ -1,0 +1,4 @@
+Scene BasicTest (500, 500)
+  RightTriangle Color (255, 0, 0) at (50, 50) Height 100 Width 100;
+  Rectangle Color (0, 128, 255) at (150, 150) Height 200 Width 100;
+End.

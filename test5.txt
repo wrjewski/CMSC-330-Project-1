@@ -1,0 +1,6 @@
+Scene OnlyText (500, 500)
+  Text Color (0, 0, 0) at (100, 100) "Hello World!";
+  Text Color (255, 0, 0) at (150, 150) "Red Text";
+  Text Color (0, 255, 0) at (200, 200) "Green Text";
+  Text Color (0, 0, 255) at (250, 250) "Blue Text";
+End.

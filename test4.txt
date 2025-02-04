@@ -1,0 +1,6 @@
+Scene MultiTriangles (500, 500)
+  RightTriangle Color (255, 0, 0) at (50, 50) Height 50 Width 50;
+  RightTriangle Color (0, 255, 0) at (100, 100) Height 75 Width 75;
+  RightTriangle Color (0, 0, 255) at (150, 150) Height 100 Width 100;
+  RightTriangle Color (255, 255, 0) at (200, 200) Height 125 Width 125;
+End.

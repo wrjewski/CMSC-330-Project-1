@@ -1,0 +1,6 @@
+Scene OverlappingShapes (500, 500)
+  Rectangle Color (255, 0, 0) at (100, 100) Height 200 Width 200;
+  RightTriangle Color (0, 255, 0) at (150, 150) Height 150 Width 150;
+  RegularPolygon Color (0, 0, 255) at (175, 175) Sides 6 Radius 80;
+  Parallelogram Color (255, 255, 0) at (120, 120) (220, 220) Offset 20;
+End.
